@@ -7,6 +7,7 @@ export default function Home() {
     <main>
       <AboutMe />
       <TechStack />
+      <Projects />
     </main>
   );
 }
